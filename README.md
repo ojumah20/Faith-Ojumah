@@ -4,6 +4,7 @@
 <h3 align = "left">Achievements</h3>
 <ul align = "left"> 
   <li>Organsed two data cohorts on data eengineering in 2023 </li> 
+  <li>Distinguished as the overall best graduating student at McPherson University for my Bachelor's degree, and subsequently earned distinctions for my Master's degree at the University of Huddersfield </li>
 </ul>
 
 <p align="left"> <a href="https://twitter.com/onyeka_ojumah" target="blank"><img src="https://img.shields.io/twitter/follow/onyeka_ojumah?logo=twitter&style=for-the-badge" alt="onyeka_ojumah" /></a> </p>
