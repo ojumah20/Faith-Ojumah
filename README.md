@@ -12,6 +12,12 @@
 - 💬 Ask me about **machine learning, computer vision, LLM, data visualisation**
 
 - 📫 How to reach me **onyekaojumah22@gmail.com**
+  
+- Join my community of **early data professionals** [https://forms.gle/jeB4K6beX4MnoTtc6](DEMP)
+
+- Invite me as a speaker at your data and AI events [https://forms.gle/YVmDzMKSoAr2njdN9](https://forms.gle/YVmDzMKSoAr2njdN9)
+
+- Need my professional headshot for an event [https://drive.google.com/drive/folders/1M72-wIP7N3RyB_Tf25dgTai7Pv8WVto5?usp=sharing](https://drive.google.com/drive/folders/1M72-wIP7N3RyB_Tf25dgTai7Pv8WVto5?usp=sharing)
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1SZLJDStTviMDPlaGr-JXLaPamE5CD9DJJVnoUo7VBeA/edit?usp=sharing](https://docs.google.com/document/d/1SZLJDStTviMDPlaGr-JXLaPamE5CD9DJJVnoUo7VBeA/edit?usp=sharing)
 
