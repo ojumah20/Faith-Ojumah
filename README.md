@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1SZLJDStTviMDPlaGr-JXLaPamE5CD9DJJVnoUo7VBeA/edit?usp=sharing](https://docs.google.com/document/d/1SZLJDStTviMDPlaGr-JXLaPamE5CD9DJJVnoUo7VBeA/edit?usp=sharing)
 
-- ⚡ Fun fact **I think I am jovial**
+- ⚡ Fun fact **People who have worked with me tell me I'm the best**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
