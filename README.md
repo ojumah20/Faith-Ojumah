@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onyekachuwku Ojumah(Faith)</h1>
-<h3 align="right">A Data Scientist in UK</h3>
+<p align="left">A Data Scientist in UK</p>
 
 <p align="left"> <a href="https://twitter.com/onyeka_ojumah" target="blank"><img src="https://img.shields.io/twitter/follow/onyeka_ojumah?logo=twitter&style=for-the-badge" alt="onyeka_ojumah" /></a> </p>
 
