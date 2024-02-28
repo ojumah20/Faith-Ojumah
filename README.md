@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Onyekachuwku Ojumah(Faith)</h1>
 <p align="left">A Data Scientist in UK</p>
 
+<h3 align = "left">Achievements</h3>
+<ul align = "left"> 
+  <li>Organsed two data cohorts on data eengineering in 2023 </li> 
+</ul>
+
 <p align="left"> <a href="https://twitter.com/onyeka_ojumah" target="blank"><img src="https://img.shields.io/twitter/follow/onyeka_ojumah?logo=twitter&style=for-the-badge" alt="onyeka_ojumah" /></a> </p>
 
 - 🔭 I’m currently working on **Computer Vision Projects**
