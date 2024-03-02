@@ -3,7 +3,7 @@
 
 <h3 align = "left"> Achievements </h3>
 <ul align = "left"> 
-  <li>Organsed two personal data cohorts on data eengineering in 2023 </li> 
+  <li>Organsed two personal data cohorts on data engineering in 2023 </li> 
   <li>Speaker at Datafest 2022 and MLOPs lagos 2022 </li>
   <li>Distinguished as the overall best graduating student at McPherson University for my Bachelor's degree, and subsequently earned distinctions for my Master's degree at the University of Huddersfield </li>
   <li>Empowered 45 early and transitioning professionals in their data careers through scholarship training in data science, data engineering, and soft skills. </li>
