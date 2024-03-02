@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Onyekachuwku Ojumah(Faith)</h1>
-<p align="left">A Data Scientist in UK</p>
+<p align="justify">A Data Scientist with a Master's Degree in Artificial Intelligence from the University of Huddersfield (UK) and a First Class Honours Degree in Computer Science from McPherson University continously seeking impactful opportunities to leverage my expertise. I am passionate about empowering individuals and businesses through the power of data analysis, modeling, and artificial intelligence. My diverse experience includes training aspiring data professionals at SkillUp Africa, optimizing financial decisions at Sterling Bank Nigeria, and providing expert guidance as a BI Analyst consultant(Halo Invest). Additionally, I actively foster the growth of the tech community through speaking engagements at conferences, mentoring future female data scientists(CawStem), and building a network of early-career professionals(DEMP). My dedication to continuous learning is evident through my ongoing personal projects in LLM, computer vision,machine learning and web development. </p>
 
-<h3 align = "left">Achievements</h3>
+<h3 align = "left"> Achievements </h3>
 <ul align = "left"> 
-  <li>Organsed two data cohorts on data eengineering in 2023 </li> 
+  <li>Organsed two personal data cohorts on data eengineering in 2023 </li> 
+  <li>Speaker at Datafest 2022 and MLOPs lagos 2022 </li>
   <li>Distinguished as the overall best graduating student at McPherson University for my Bachelor's degree, and subsequently earned distinctions for my Master's degree at the University of Huddersfield </li>
+  <li>Empowered 45 early and transitioning professionals in their data careers through scholarship training in data science, data engineering, and soft skills. </li>
 </ul>
 
 <p align="left"> <a href="https://twitter.com/onyeka_ojumah" target="blank"><img src="https://img.shields.io/twitter/follow/onyeka_ojumah?logo=twitter&style=for-the-badge" alt="onyeka_ojumah" /></a> </p>
