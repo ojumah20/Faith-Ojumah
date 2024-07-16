@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **onyekaojumah22@gmail.com**
   
-- Join my community of **early data professionals** [https://forms.gle/jeB4K6beX4MnoTtc6](DEMP)
+- Join my community of **early data professionals** [https://forms.gle/bFRujtqTGdmJ4WQj9](DEMP)
 
-- Invite me as a speaker at your data and AI events [https://forms.gle/YVmDzMKSoAr2njdN9](https://forms.gle/YVmDzMKSoAr2njdN9)
+- Invite me as a speaker at your data and AI events [https://forms.gle/5GGX6mJ8KeiXgvCq9](Speaker-Invitation)
 
 - Need my professional headshot for an event [https://drive.google.com/drive/folders/1M72-wIP7N3RyB_Tf25dgTai7Pv8WVto5?usp=sharing](https://drive.google.com/drive/folders/1M72-wIP7N3RyB_Tf25dgTai7Pv8WVto5?usp=sharing)
 
