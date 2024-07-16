@@ -11,9 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/onyeka_ojumah" target="blank"><img src="https://img.shields.io/twitter/follow/onyeka_ojumah?logo=twitter&style=for-the-badge" alt="onyeka_ojumah" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision Projects**
-
-- 🌱 I’m currently learning **Streamlit**
+- 🔭 I’m currently working on **Computer Vision and Natural Language Projects**
 
 - 📝 I regularly write articles on [https://medium.com/@DataSpace.NG](https://medium.com/@DataSpace.NG)
 
