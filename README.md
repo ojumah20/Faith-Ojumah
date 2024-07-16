@@ -19,13 +19,13 @@
 
 - 📫 How to reach me **onyekaojumah22@gmail.com**
   
-- Join my community of **early data professionals** [https://forms.gle/bFRujtqTGdmJ4WQj9](DEMP)
+- Join my community of **early data professionals** [DEMP](https://forms.gle/bFRujtqTGdmJ4WQj9)
 
-- Invite me as a speaker at your data and AI events [https://forms.gle/5GGX6mJ8KeiXgvCq9](Speaker-Invitation)
+- Invite me as a speaker at your data and AI events [Speaker Invitation](https://forms.gle/5GGX6mJ8KeiXgvCq9)
 
-- Need my professional headshot for an event [https://drive.google.com/drive/folders/1M72-wIP7N3RyB_Tf25dgTai7Pv8WVto5?usp=sharing](https://drive.google.com/drive/folders/1M72-wIP7N3RyB_Tf25dgTai7Pv8WVto5?usp=sharing)
+- Need my professional headshot for an event [Headshot](https://drive.google.com/drive/folders/1M72-wIP7N3RyB_Tf25dgTai7Pv8WVto5?usp=sharing)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1SZLJDStTviMDPlaGr-JXLaPamE5CD9DJJVnoUo7VBeA/edit?usp=sharing](https://docs.google.com/document/d/1SZLJDStTviMDPlaGr-JXLaPamE5CD9DJJVnoUo7VBeA/edit?usp=sharing)
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1SZLJDStTviMDPlaGr-JXLaPamE5CD9DJJVnoUo7VBeA/edit?usp=sharing)
 
 - ⚡ Fun fact **People who have worked with me tell me I'm the best**
 
