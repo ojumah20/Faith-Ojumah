@@ -26,7 +26,7 @@
 
 - Need my professional headshot for an event [Headshot](https://drive.google.com/drive/folders/1M72-wIP7N3RyB_Tf25dgTai7Pv8WVto5?usp=sharing)
 
-- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1SZLJDStTviMDPlaGr-JXLaPamE5CD9DJJVnoUo7VBeA/edit?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1ibY1stsyZDOUG7a_a-HK2el6xGicnmo7/view?usp=drive_link)
 
 - ⚡ Fun fact **People who have worked with me tell me I'm the best**
 
